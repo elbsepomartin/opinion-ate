@@ -1,6 +1,4 @@
 <template>
-  <ul>
-    <li
     <div>
     <v-list-item
       v-for="restaurant in restaurants"
