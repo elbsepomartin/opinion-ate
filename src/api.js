@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const client = axios.create({
   baseURL:
-    'https://outside-in-dev-api.herokuapp.com/PP4wXOuq2B8IVELqL6MinvgflXEGw1A6',
+    'https://outside-in-dev-api.herokuapp.com/PP4wXOuq2B8IVELqL6MinvgflXEGw1A6__',
 });
 
 const api = {
